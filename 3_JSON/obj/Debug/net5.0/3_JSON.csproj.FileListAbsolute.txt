@@ -1,0 +1,16 @@
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\3_JSON.exe
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\3_JSON.deps.json
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\3_JSON.runtimeconfig.json
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\3_JSON.runtimeconfig.dev.json
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\3_JSON.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\ref\3_JSON.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\bin\Debug\net5.0\3_JSON.pdb
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.csproj.AssemblyReference.cache
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.AssemblyInfoInputs.cache
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.AssemblyInfo.cs
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\ref\3_JSON.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.pdb
+C:\Users\Natha\Desktop\!CS\GitLessons\3_JSON\obj\Debug\net5.0\3_JSON.genruntimeconfig.cache
