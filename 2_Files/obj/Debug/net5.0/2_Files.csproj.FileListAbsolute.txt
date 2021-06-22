@@ -1,0 +1,16 @@
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\2_Files.exe
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\2_Files.deps.json
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\2_Files.runtimeconfig.json
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\2_Files.runtimeconfig.dev.json
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\2_Files.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\ref\2_Files.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\bin\Debug\net5.0\2_Files.pdb
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.csproj.AssemblyReference.cache
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.AssemblyInfoInputs.cache
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.AssemblyInfo.cs
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\ref\2_Files.dll
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.pdb
+C:\Users\Natha\Desktop\!CS\GitLessons\2_Files\obj\Debug\net5.0\2_Files.genruntimeconfig.cache
